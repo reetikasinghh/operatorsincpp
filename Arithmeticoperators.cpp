@@ -1,3 +1,4 @@
+// WAP TO FIND THE SUM, PRODUCT, DIFFERENCE.
 #include <iostream>
 
 int main() {
